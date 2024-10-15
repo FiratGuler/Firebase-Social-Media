@@ -20,9 +20,9 @@ StorageManager, Firebase Storage servisini kullanarak görsel yüklemelerini yö
 ### RemoteConfigManager
 RemoteConfigManager, Firebase Remote Config servisini yönetir. Bu sınıf, uygulamanın uzaktan konfigürasyonunu sağlar. Uygulama içindeki dinamik değişiklikler (örneğin, başlık metnini değiştirme) bu yapı sayesinde sunucu üzerinden güncellenebilir.
 
--Remote Config Fetch: Sunucudan konfigürasyon verilerini çeker ve etkinleştirir.
--Başlık Getir: Uygulamanın dinamik başlık metnini döner.
--Başlık Gizliliği: Başlığın görünürlüğünü sunucudan aldığı veriye göre yönetir.
+- Remote Config Fetch: Sunucudan konfigürasyon verilerini çeker ve etkinleştirir.
+- Başlık Getir: Uygulamanın dinamik başlık metnini döner.
+- Başlık Gizliliği: Başlığın görünürlüğünü sunucudan aldığı veriye göre yönetir.
 
 ## Kullanılan Teknolojiler
 - Firebase Authentication: Kullanıcı kimlik doğrulama işlemleri için.
@@ -52,9 +52,9 @@ StorageManager manages image uploads using the Firebase Storage service. This cl
 ### RemoteConfigManager
 RemoteConfigManager manages the Firebase Remote Config service. This class enables remote configuration of the application. Dynamic changes within the application (for example, changing the header text) can be updated through the server thanks to this structure.
 
--Remote Config Fetch: Retrieves and activates configuration data from the server.
--Title Fetch: Returns the dynamic header text of the application.
--Title Privacy: Manages the visibility of the header according to the data received from the server.
+- Remote Config Fetch: Retrieves and activates configuration data from the server.
+- Title Fetch: Returns the dynamic header text of the application.
+- Title Privacy: Manages the visibility of the header according to the data received from the server.
 
 ## Technologies Used
 - Firebase Authentication: For user authentication.
