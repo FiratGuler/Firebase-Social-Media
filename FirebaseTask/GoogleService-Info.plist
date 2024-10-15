@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCUp3FGV6-kQiesRCUQ1hrom3vWGGyn4Tk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>771269501958</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.firatguler.FirebaseTask</string>
+	<key>PROJECT_ID</key>
+	<string>fir-task-9f5ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-task-9f5ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:771269501958:ios:1fd988885b0ab45d668f87</string>
+</dict>
+</plist>
